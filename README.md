@@ -1,0 +1,3 @@
+This fun mini project required me to create 4 pages and link them together. 1 webpage acting as a home page and 3 others with their own recipe instructions. I even went out of the way to add pngs for all the steps of each recipe page.
+I've gained confidence in creating webpages from scratch and typing up the boilerplates, linking local images, the common elements learned (<ul> <ol> <li> <strong> <em> <p> <h1-6> ).This project has also given me time to reference
+the git commands for my repository as well as bash commands for moving/renaming/creating files and making/navigating the different directories. Overall a lot more confident with html, can't wait to look back at these projects.
